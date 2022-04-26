@@ -2,6 +2,6 @@
 
   * [Twitter](www.google.com)
 
-* [Contributors](Contributors.md)
+* [About Us](Contributors.md)
 
 * [En](/)
