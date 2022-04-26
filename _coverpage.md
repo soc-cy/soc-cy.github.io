@@ -1,4 +1,4 @@
-![logo](images/logo.png)
+![logo](images/logo1.png)
 
 # Cybersecuirty is free to learn!
 
@@ -8,5 +8,5 @@
 - Resources, tasks, etc
 - Built from first hand experience
 
-[GitHub](https://github.com/ydamni/cloud-is-free)
+[GitHub](https://github.com/soc-cy/soc-cy.github.io)
 [Getting Started](#homepage)
