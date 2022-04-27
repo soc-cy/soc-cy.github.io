@@ -60,4 +60,6 @@ Note: It's a overkill. But at the end of the day, if you want to take them, go f
 
 ### [Go to Phase 3: Cyber Security](../phase3/README.md)
 
+___
+
 Note: In Resources section, you will leave this domain by accesing the links provided for references. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
