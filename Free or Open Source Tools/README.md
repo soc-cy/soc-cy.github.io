@@ -1,4 +1,4 @@
-## Cybersecurity Free/ Open Source Tools
+## Cybersecurity Free / Open Source Tools
 
 ### Here you can find all the free/open source tools for your organisation/individual purpose. 
 
