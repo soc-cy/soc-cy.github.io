@@ -83,6 +83,8 @@ This is the end of Cyber Security Basics. And we will continuously keep on addin
 
 But, If you need to explore more resources or more hands-on Training, [click here](../Additional/README.md)
 
+Check sidebar for more content!
+
 [Go back to homepage](../README.md)
 
 ___
