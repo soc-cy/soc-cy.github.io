@@ -12,3 +12,5 @@
 - Resources
 
   - [Additional Resources](Additional/README.md)
+  - [Free/Open Source Tools](Tools/README.md)
+  - [Projects](Projects/README.md)
