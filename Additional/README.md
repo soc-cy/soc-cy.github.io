@@ -1,7 +1,7 @@
 Cybersecurity Educational Resources
 ==========================
 
-This is an [awesome list](https://github.com/sindresorhus/awesome) of resources related to teaching cybersecurity, primarly to running Capture the Flag games for educational purposes. The resources are divided into categories and sorted alphabetically within each category.
+This is an awesome list of resources related to teaching cybersecurity, primarly to running Capture the Flag games for educational purposes. The resources are divided into categories and sorted alphabetically within each category.
 
 ## Capture the Flag (CTF) games
 | Link  | Description                     | 
@@ -50,3 +50,8 @@ This is an [awesome list](https://github.com/sindresorhus/awesome) of resources 
 | [Practice CTF List](http://captf.com/practice-ctf/) | CTF practice sites and tools|
 | [TeachCyber](https://teachcyber.tk/) | A list of free online resources|
 | [WeChall](https://www.wechall.net/active_sites) | A list of web challenges and practice sites|
+
+___
+
+Note: You will leave this domain by accesing the links provided for references/resources. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
+
