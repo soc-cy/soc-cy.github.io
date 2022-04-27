@@ -6,7 +6,7 @@ Cybersecurity is the overall umbrella term. It involves securing everything, inc
 ##  Resources & Things you should be able familiar with at the end of this phase
 
 
-| Topic      | 
+| Topics      | 
 | :------------- | 
 | [Types of Area Network](https://www.geeksforgeeks.org/types-of-area-networks-lan-man-and-wan/) | 
 | [Network Topology ](https://www.geeksforgeeks.org/types-of-network-topology/	) | 
@@ -38,7 +38,9 @@ Cybersecurity is the overall umbrella term. It involves securing everything, inc
 | [Cloud Load Balancing](https://www.geeksforgeeks.org/load-balancing-in-cloud-computing/) | 
 
 ### Additional Resources
-[Computer Network Notes](https://media-exp1.licdn.com/dms/document/C561FAQGzhtpQyEYyhQ/feedshare-document-pdf-analyzed/0/1648013922467?e=2147483647&v=beta&t=I-bwxWsuaZmYrJ6Ok09wJE_kOiOwYZSVd-_NwXvJgW0)
+| Topics      | 
+| :------------- | 
+|[Computer Network Notes](https://media-exp1.licdn.com/dms/document/C561FAQGzhtpQyEYyhQ/feedshare-document-pdf-analyzed/0/1648013922467?e=2147483647&v=beta&t=I-bwxWsuaZmYrJ6Ok09wJE_kOiOwYZSVd-_NwXvJgW0) |
 
 ## Certifications you might want to look into
 
