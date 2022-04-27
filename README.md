@@ -1,4 +1,9 @@
 # Welcome to soccy
+
+
+**[Web version here](https://soc-cy.github.io/#/)**
+
+
 ### One Stop to learn Cyber Security Fundamentals
 
 
