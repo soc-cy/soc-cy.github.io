@@ -25,4 +25,6 @@ We tried to keep it as general and using the most popular options (in terms of c
 
 ### [Go to Phase 1: Networking and cloud fundamentals](phase1/README.md)
 
+___
+
 Note: In Resources section, you will leave this domain by accesing the links provided for references. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
