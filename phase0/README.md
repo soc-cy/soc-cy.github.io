@@ -54,3 +54,8 @@ Take a look at this video by KevTech on [Helpdesk interview questions](https://y
 ### [Go to Phase 1: Linux and Networking fundamentals](../phase1/README.md)
 
 [Go back to homepage](../README.md)
+
+___
+
+Note: You will leave this domain by accesing the links provided for references/resources. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
+
