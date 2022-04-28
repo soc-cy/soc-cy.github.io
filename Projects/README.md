@@ -17,4 +17,4 @@ ___
 
 ___
 
-Note: We will keep on adding projects. If you want to contribute, please be contact us at contact.soccy@gmail.com . You will leave this domain by accesing the links provided for references/resources. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
+Note: We will keep on adding projects. If you want to contribute, please be free to contact us at contact.soccy@gmail.com . You will leave this domain by accesing the links provided for references/resources. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
