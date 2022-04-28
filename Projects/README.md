@@ -13,7 +13,7 @@ ___
 
 ## Project 1 - Deploying open-source SOC lab with red team simulation, at home. Elasticsearch Stack EDR + SIEM (Part 1)
 
-#### [Start the project 1](https://nullexception0.blogspot.com/2022/04/deploying-open-source-soc-lab-with-red.html)
+### [Start the project 1](https://nullexception0.blogspot.com/2022/04/deploying-open-source-soc-lab-with-red.html)
 
 ___
 
