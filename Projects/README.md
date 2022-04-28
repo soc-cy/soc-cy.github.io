@@ -4,8 +4,8 @@
 
 Below is the list of projects, where you can play with different secuirty tools.
 
-#### Before you start
-**This documentation is only intended to help you in the realization of practical projects. You are responsible for every action taken on your account.**
+#### Before you start:
+**You are responsible for every action taken on your machine/account.**
 
 ___
 
