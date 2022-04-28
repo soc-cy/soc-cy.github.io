@@ -5,6 +5,7 @@
 Cybersecurity is the overall umbrella term. It involves securing everything, including the network, but also the devices and data. So its essential to protect all the three. i.e, network, devices and data from the attacker/hacker.
 
 <img src="https://github.com/soc-cy/soc-cy.github.io/blob/6cc230ac09a365dda209f7e736a3b93375713b0a/images/Cyber%20security%20Tree.jpg" width="900"/>
+<img src="https://github.com/soc-cy/soc-cy.github.io/blob/6cc230ac09a365dda209f7e736a3b93375713b0a/images/Cyber%20security%20Tree.jpg"=4 width="900;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Cybersecuritytree />
 
 
 ## Resources & Things you should be able familiar with at the end of this phase 
