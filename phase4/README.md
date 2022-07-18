@@ -1,11 +1,10 @@
-# Phase 5: Cloud Security Fundamentals
+# Phase 4: Cloud Security Fundamentals
 
 
-## How does this phase apply to Cloud?
+## How does this phase apply to Cyber Security fundamentals?
 
-Security is the biggest challenge to cloud computing. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise. 
+Security is the biggest challenge to cloud computing. As cloud adoption continues to grow, cloud security incidents and vulnerabilities are equally on the rise and as a result, demand for cloud security is raising. And it requires intermediate / expert level knowledge on Cloud and Cyber Security. 
 
-The individual cloud components you were introduced to in the previous phases all require security in some shape or form. Better yet, security has to be considered from every perspective in order to prevent malicious actors from finding and exploiting vulnerabilities in our cloud environments which could potentially lead to data or infrastructure compromise.
 
 Here's one of my favorite articles by [Christophe Tafani-Dereeper](https://twitter.com/christophetd) that covers Cloud Security Breaches and Vulnerabilities:
 
@@ -81,4 +80,16 @@ These are lesser know certifications but they are focused on giving you the trai
 - [Offensive Azure Security Professional](https://cloudbreach.io/labs/)
 
 Credits & Author: [Dayspring Johnson](https://twitter.com/daycyberwox)
+
+## What's next
+
+If you need to explore more resources or more hands-on Training related to Cyber Security, [click here](../Additional/README.md)
+
+Check sidebar for more content!
+
+[Go back to homepage](../README.md)
+
+___
+
+Note: In Resources section, you will leave this domain by accesing the links provided for references. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
 
