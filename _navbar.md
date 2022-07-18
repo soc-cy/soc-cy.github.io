@@ -1,3 +1,7 @@
-* [About Us](Contributors.md)
+<!-- _navbar.md -->
+
+* [Contributors](Contributors.md)
+
+* [About Us](About_us.md)
 
 * [En](/)
