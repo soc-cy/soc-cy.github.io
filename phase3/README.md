@@ -4,7 +4,7 @@
 
 Cybersecurity is the overall umbrella term. It involves securing everything, including the network, but also the devices and data. So its essential to protect all the three. i.e, network, devices and data from the attacker/hacker.
 
-<img src="phase3/cybersecuritytree.jpg" width="900"/>
+<img src="/phase3/cybersecuritytree.jpg" width="900"/>
 
 
 ## Resources & Things you should be able familiar with at the end of this phase 
