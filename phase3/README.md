@@ -81,7 +81,7 @@ At the end of the day, if you want to take them, go for it :)
 
 This is the end of Cyber Security Basics. And we will continuously keep on adding/updating the resourses. We hope the above topics will give you enough knowledge and confident about cyber security and now, you can go and apply for security related jobs. All the best for your job search!
 
-### [Go to Phase 3: Cloud Security (Optional)](../phase4/README.md)
+### [Go to Phase 4: Cloud Security (Optional)](../phase4/README.md)
 
 But, If you need to explore more resources or more hands-on Training related to Cyber Security, [click here](../Additional/README.md)
 
