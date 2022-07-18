@@ -27,7 +27,7 @@ We tried to keep it as general and using the most popular options (in terms of c
 
 
 
-## Questions? Comments? Feedback?
+### Questions? Comments? Feedback?
 
 Please open an [Issue](https://github.com/soc-cy/soc-cy.github.io/issues)
 
