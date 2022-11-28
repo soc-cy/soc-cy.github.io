@@ -42,3 +42,6 @@ Please open an [Issue](https://github.com/soc-cy/soc-cy.github.io/issues)
 ___
 
 Note: In Resources section, you will leave this domain by accesing the links provided for references. Beware of external sites asking for your personal information (e.g. phone numbers, credit cards). You may become a victim of a phishing attack! We are not responsible for any such incidents.
+
+
+###### Credits: [Freepik - Flaticon](https://www.flaticon.com/free-icons/security")
