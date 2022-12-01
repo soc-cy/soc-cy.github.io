@@ -12,4 +12,4 @@
 - Built from first hand experience
 
 [GitHub](https://github.com/soc-cy/soc-cy.github.io)
-[Getting Started](README.md)
+[Getting Started](#welcome)
