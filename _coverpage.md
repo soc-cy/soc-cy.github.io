@@ -1,4 +1,4 @@
-![logo](images/logo1.png)
+![logo](images/logo2.png)
 
 [![GitHub license](https://img.shields.io/github/license/learntocloud/learn-to-cloud.svg)](https://github.com/soc-cy/soc-cy.github.io/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
