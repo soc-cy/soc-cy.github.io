@@ -24,7 +24,7 @@ We tried to keep it as general and using the most popular options (in terms of c
 | 1     | [Networking and cloud fundamentals](phase1/README.md) |
 | 2     | [Linux fundamentals](phase2/README.md) |
 | 3     | [Cyber Security fundamentals](phase3/README.md)| 
-| 4     | [Cloud Security fundamentals](phase3/README.md)| 
+| 4     | [Cloud Security fundamentals](phase4/README.md)| 
 
 
 
