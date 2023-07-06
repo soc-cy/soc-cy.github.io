@@ -9,7 +9,6 @@ Most of the servers use Linux OS. And the cloud is a bunch of Linux Servers netw
 | Topics    |
 | :------------- |
 |[Linux - Intro](https://www.geeksforgeeks.org/introduction-to-linux-operating-system/)|
-| [Interactive way to learn Linux and Linux CLI!](https://linuxjourney.com/) | 
 | [Security Commands 1](https://linuxhint.com/list_essential_linux_security_commands/) | 
 | [Security Commands 2](https://tipsmake.com/20-essential-linux-security-commands) | 
 | [(Optional) Book : Linux Basics for Hackers](https://nostarch.com/linuxbasicsforhackers)   | 
