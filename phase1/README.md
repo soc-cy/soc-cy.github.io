@@ -40,7 +40,7 @@ Cybersecurity is the overall umbrella term. It involves securing everything, inc
 ### Additional Resources
 | Topics      | 
 | :------------- | 
-|[Computer Network Notes](https://media-exp1.licdn.com/dms/document/C561FAQGzhtpQyEYyhQ/feedshare-document-pdf-analyzed/0/1648013922467?e=2147483647&v=beta&t=I-bwxWsuaZmYrJ6Ok09wJE_kOiOwYZSVd-_NwXvJgW0) |
+|[Work in Progress]() |
 
 ## Certifications you might want to look into
 
