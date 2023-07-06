@@ -17,9 +17,7 @@ This is an awesome list of resources related to teaching cybersecurity, primarly
 | [Avatao](https://avatao.com/) | Challenges to practice cybersecurity skills|
 | [Damn Vulnerable Web Application (DVWA)](http://www.dvwa.co.uk/) | A PHP/MySQL web application containing various vulnerabilities|
 | [Exploit Exercises](https://exploit-exercises.com/) | Virtual machines and challenges to practice security exploits|
-| [Hack Me](https://hack.me/) | A community platform for building, hosting and sharing vulnerable web app code|
 | [Hack The Box](https://www.hackthebox.eu/) | A community platform with hacking challenges|
-| [Hack This Site](https://www.hackthissite.org/) | Training ground for hackers including a community forum|
 | [Hack This!!](https://www.hackthis.co.uk/) | Challenges to practice cryptography, forensics, JavaScript, SQL, and more|
 | [Hacker Test](http://www.hackertest.net/) | Challenges to practice JavaScript, PHP, HTML and graphic thinking|
 | [Root Me](https://www.root-me.org) | Challenges to practice hacking skills|
@@ -47,7 +45,6 @@ This is an awesome list of resources related to teaching cybersecurity, primarly
 |-------|---------------------------------|
 | [Awesome Security List](https://github.com/sindresorhus/awesome#security) | A major list on everything security-related |
 | [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) | A roadmap for vulnerable apps and systems|
-| [Practice CTF List](http://captf.com/practice-ctf/) | CTF practice sites and tools|
 | [TeachCyber](https://teachcyber.tk/) | A list of free online resources|
 | [WeChall](https://www.wechall.net/active_sites) | A list of web challenges and practice sites|
 
